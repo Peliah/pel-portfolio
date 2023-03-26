@@ -9,7 +9,7 @@ const About = () => {
     const avartar = require('./../assets/Pel.png')
     useEffect(()=>{AOS.init()})
   return (
-    <header id='about' className='flex lg:flex-row flex-col lg:items-center lg:pt-36 pt-32 py-12 px-6'>
+    <header id='about' className='flex lg:flex-row flex-col lg:items-center lg:pt-36 pt-32 py-12 px-6 min-h-screen'>
         <figcaption className=" lg:w-1/2 w-full md:w-11/12" style={{color:"#ABB2BF"}}>
             <h1
                 data-aos="fade-right"
