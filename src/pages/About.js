@@ -63,7 +63,7 @@ const About = () => {
                 data-aos-once="true"
                 src={avartar}
                 alt=""
-                className="lg:h-96 h-96 lg:w-96 w-96 relative lg:left-40 left-36"
+                className="lg:h-96 h-96 lg:w-96 w-96 relative lg:left-40 left-30"
             />
         </figure>
 
