@@ -21,7 +21,7 @@ const About = () => {
                 className="lg:text-4xl text-4xl font-extrabold"
             >
                 Hi, I'm Pelayah {" - "} a{" "}
-                <span className='text-pink-700'>Software Engineer</span>{" "}and{" "}
+                <span style={{color:"#C778DD"}}>Software Engineer</span>{" "}and{" "}
                 <span style={{color:"#C778DD"}}>Technical Writer</span>
             </h1>
             <p className="py-6 text-sm text-justify leading-6">
