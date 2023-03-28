@@ -20,6 +20,8 @@ const Contacts = () => {
             console.log(error.text);
             alert("Invalid details, please try again");
         });
+
+        
     }
     useEffect(() => {
         AOS.init();
