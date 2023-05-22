@@ -26,10 +26,10 @@ const Footer = () => {
           <Link to="https://github.com/Peliah">
             <AiFillGithub className="h-8 w-8" />
           </Link>
-          <Link to="https://hashnode.com/@ForJessicasake">
+          <Link to="https://medium.com/@pelepoupa">
             <BsMedium className="h-5 w-5" />
           </Link>
-          <Link to="https://www.linkedin.com/in/jessica-joseph-/">
+          <Link to="https://www.linkedin.com/in/pelayah-epoupa-12830a198/">
             <BsLinkedin className="h-5 w-5" />
           </Link>
           <Link to="https://twitter.com/pelayah_epoupa">
