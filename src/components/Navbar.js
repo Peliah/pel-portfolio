@@ -6,7 +6,7 @@ const Navbar = () => {
   const [nav, setNav] = useState(false)
   const navClose = () => {setNav(!nav)}
   return (
-    <nav className='flex justify-between items-center lg:h-20 h-20 border-20 bg-background cursor-pointer fixed w-full 2xl:mx-auto 2xl:container z-20' >
+    <nav className='flex justify-between items-center lg:h-20 h-20 border-20 bg-background cursor-pointer fixed w-full 2xl:mx-auto 2xl:container z-20' style={{color:"#FFFFFF", background:"#282C33"}}>
         <section className='flex justify-between w-full items-center px-6' >
             <figure className='flex items-center lg:w-24 w-28 justify-between'>
                 <img src={logo} alt='Logo' className='w-8 h-8 lg:w-7 lg:h-7'/>

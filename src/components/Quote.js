@@ -6,9 +6,9 @@ const Quote = () => {
     <hgroup>
       <section className="flex justify-center relative">
         <figure className="absolute lg:left-52 left-16 2xl:left-72 md:left-20 lg:bottom-12 bottom-20">
-          <img src={quotes} alt="quotes" className="lg:h-8 lg:w-8 w-7 h-7" />
+          <img src={quotes} alt="quotes" className="lg:h-10 lg:w-8 w-7 h-7" />
         </figure>
-        <h3 className="border border-dotted border-secondary lg:h-16 h-24 flex justify-center items-center lg:w-8/12 w-10/12 leading-8 lg:text-base md:text-sm text-xs px-1 lg:pl-0 pl-6">
+        <h3 className="border border-dotted border-secondary lg:h-18 h-24 flex justify-center items-center lg:w-8/12 w-10/12 leading-8 lg:text-base md:text-sm text-xs px-1 lg:pl-0 pl-6">
             <center>
             Act as if it were impossible to fail, 
             <br/>

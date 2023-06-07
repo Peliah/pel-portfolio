@@ -3,6 +3,7 @@ import "aos/dist/aos.css"
 import AOS from 'aos'
 import {AiFillGithub} from 'react-icons/ai'
 import {BsMedium, BsLinkedin,BsTwitter} from 'react-icons/bs'
+import resume from '../assets/newCV2.pdf'
 
 
 const About = () => {
@@ -33,9 +34,9 @@ const About = () => {
                 I believe that technology has the power to change lives for the better, 
                 and I'm committed to using my skills to create software that does just that.
             </p>
-            <a href='#contact'>
+            <a href={resume} download={"Pelayah_CV"}>
                 <button className="mb-2 animate-bounce border border-primary h-10 w-32 hover:bg-black" style={{borderColor:"#C778DD"}}>
-                    contact me !!
+                    Resume
                 </button>
             </a>
             <figure className="flex justify-between items-center w-32 py-1">
