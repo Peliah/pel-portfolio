@@ -4,13 +4,13 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Homepage } from './pages'
 const App = () => {
   return (
-    <>
-      <Router>
+    <div  style={{background:"#282C33"}}>
+      <Router >
         <Routes>
           <Route path="/" element={<Homepage/>}/>
         </Routes>
       </Router>
-    </>
+    </div>
   )
 }
 
