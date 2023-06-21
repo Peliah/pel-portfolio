@@ -1,0 +1,32 @@
+ [
+      { "id":1,
+        "name": "Front-End Development",
+        "tools": ["HTML", "CSS", "JavaScript", "React", "Angular", "Vue.js"],
+        "animation": "fade-right"
+      },
+      { "id":2,
+        "name": "Back-End Development",
+        "tools": ["PHP", "Python", "Ruby", "Java", "Node.js"],
+        "animation": "flip-left"
+      },
+      { "id":3,
+        "name": "Versioning",
+        "tools": ["Git", "BitBucket"],
+        "animation": "zoom-in"
+      },
+      { "id":4,
+        "name": "Machine Learning",
+        "tools": ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost", "LightGBM"],
+        "animation": "fade-up"
+      },
+      { "id":5,
+        "name": "Cloud Computing",
+        "tools": ["AWS", "Azure", "Google Cloud Platform", "Docker"],
+        "animation": "slide-right"
+      },
+      { "id":6,
+        "name":"Database Management Systems",
+        "tools":["PostgreSQL", "SQL Server", "MySQL", "MongoDB"],
+        "animation":"slide-left"
+      }
+    ]
