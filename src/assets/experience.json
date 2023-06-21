@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "image":"",
+        "title":"IT Technician",
+        "company":"M&E IT Solutions",
+        "position":"Internship",
+        "date":"October 2019 - August 2021"
+    },
+    {
+        "id":2,
+        "image":"",
+        "title":"Front-End Developer",
+        "company":"Side-Hustle",
+        "position":"Internship",
+        "date":"September 2021 - February 2022"
+    },
+    {
+        "id":3,
+        "image":"./WISE-Computers.png",
+        "title":"Software Engineer",
+        "company":"Wise Computers",
+        "position":"Internship",
+        "date":"July 2022 - September 2022"
+    },
+    {
+        "id":4,
+        "image":"./openxtech.jpeg",
+        "title":"Software Engineer",
+        "company":"OpenXtech",
+        "position":"Internship",
+        "date":"July 2023 - Present"
+    }
+]
