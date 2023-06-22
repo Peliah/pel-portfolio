@@ -9,7 +9,7 @@
     },
     {
         "id":2,
-        "image":"",
+        "image":"side-hustle.jpeg",
         "title":"Front-End Developer",
         "company":"Side-Hustle",
         "position":"Internship",
@@ -17,7 +17,7 @@
     },
     {
         "id":3,
-        "image":"./WISE-Computers.png",
+        "image":"WISE-Computers.png",
         "title":"Software Engineer",
         "company":"Wise Computers",
         "position":"Internship",
@@ -25,7 +25,7 @@
     },
     {
         "id":4,
-        "image":"./openxtech.jpeg",
+        "image":"openxtech.jpeg",
         "title":"Software Engineer",
         "company":"OpenXtech",
         "position":"Internship",
