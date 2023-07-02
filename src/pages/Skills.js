@@ -14,7 +14,7 @@ const Skills = () => {
             <figure></figure>
         </section>
         <section className="px-5 flex flex-col-reverse lg:flex-row justify-between pt-4">
-            <div className=" grid grid-cols-2 lg:grid-cols-3 gap-4 text-sm w-12/12 lg:w-8/12 lg:pb-0 pb-16">
+            <div className=" grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 text-sm w-12/12 lg:w-8/12 lg:pb-0 pb-16">
                 
                 {technologies && technologies.map((technology, id) => (
                 <table

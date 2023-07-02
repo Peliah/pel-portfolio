@@ -29,8 +29,6 @@ const About = () => {
                 I'm passionate about creating software that makes a real difference 
                 in people's lives. I love working on projects that challenge me to push the boundaries of 
                 what's possible. {<br/>}
-                I believe that the best software is created when clients and developers work 
-                together closely, sharing ideas and working towards a common goal. 
                 I believe that technology has the power to change lives for the better, 
                 and I'm committed to using my skills to create software that does just that.
             </p>
@@ -46,7 +44,7 @@ const About = () => {
                 <a href='https://linkedin.com/in/pelayah-epoupa-12830a198'>
                     <BsLinkedin className='w-5 h-5'/>
                 </a>
-                <a href='#Medium'>
+                <a href='https://medium.com/@peliah'>
                     <BsMedium className='w-5 h-5'/>
                 </a>
                 <a href='https://twitter.com/pelayah_epoupa'>
@@ -64,7 +62,7 @@ const About = () => {
                 data-aos-once="true"
                 src={avartar}
                 alt=""
-                className="lg:h-96 h-96 lg:w-96 w-96 relative lg:left-40 left-30"
+                className="lg:h-96 h-92 lg:w-96 w-96 relative lg:left-40 left-30"
             />
         </figure>
 

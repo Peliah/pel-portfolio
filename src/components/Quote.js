@@ -6,7 +6,7 @@ const Quote = () => {
       
       <section className="flex justify-center relative">
         
-        <h3 className="border border-dotted border-secondary lg:h-18 h-24 flex justify-center items-center lg:w-8/12 w-10/12 leading-8 lg:text-base md:text-sm text-xs px-1 lg:pl-0 pl-6">
+        <h3 className="border border-dotted border-secondary lg:h-20 h-26 flex justify-center items-center lg:w-8/12 w-10/12 leading-8 lg:text-base md:text-sm text-xs px-1 lg:pl-0 pl-6">
             <center>
             Act as if it were impossible to fail, 
             <br/>
